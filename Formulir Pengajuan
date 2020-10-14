@@ -1,0 +1,8 @@
+<html>
+<header>FORMULIR PENGAJUAN</header>
+
+<div class="cognito">
+<script src="https://www.cognitoforms.com/s/S_rOVveA6kS1n4FhfLumFQ"></script>
+<script>Cognito.load("forms", { id: "3" });</script>
+</div>
+</html>
